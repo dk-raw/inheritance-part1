@@ -62,7 +62,7 @@ To make a class inherit properties from an other class you will put a <b>:</b> a
         public string Building { get; set; }
         public double Score { get; set; }
     }
-    class Doctor : Person //This is how you inherite properties
+    class Doctor : Person //This is how you inherit properties
     {
     }
 ```
